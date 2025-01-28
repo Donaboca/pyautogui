@@ -4,4 +4,5 @@ Yksinkertainen automaatio Pythonilla ja Pyautogui -kirjastolla.
 - Siirrytään valikossa oikeaan kohtaan.
 - Luodaan uudet laskut (niin monta kuin Excelissä oli rivejä).
 - Syötetään yhteen laskuun yhden Excel-rivin tiedot ja tallennetaan lasku.
+- Lopuksi suljetaan ohjelma.
 
